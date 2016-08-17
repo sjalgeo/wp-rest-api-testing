@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     REST API Testing
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Plugin URI:      n/a
+ * Description:     This is a quick plugin to test the WP REST API
+ * Author:          Stephen J. Algeo
+ * Author URI:      FreshDevelopment.org
  * Text Domain:     rest-api-testing
  * Domain Path:     /languages
  * Version:         0.1.0
